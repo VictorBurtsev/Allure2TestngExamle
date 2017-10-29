@@ -1,0 +1,20 @@
+{
+  "uuid": "7c2c2994-d2ec-4ab1-9340-45962b6f2608",
+  "name": "CalculatorTest.tearDown",
+  "description": "",
+  "start": 1509306993734,
+  "stop": 1509306993735,
+  "children": [
+    "f8a93372-4f72-4085-93d9-7f5d69823c7b"
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "start": 1509306993734,
+      "stop": 1509306993735
+    }
+  ]
+}

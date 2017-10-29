@@ -1,0 +1,51 @@
+{
+  "uuid": "6a8f3f43-6846-41e4-8d7d-e5d7d8b74c11",
+  "historyId": "ef09a74a8cc0c9937451218726844979",
+  "fullName": "CalculatorTest.testSub",
+  "labels": [
+    {
+      "name": "package",
+      "value": "CalculatorTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CalculatorTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testSub"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Surefire suite"
+    },
+    {
+      "name": "suite",
+      "value": "Surefire test"
+    },
+    {
+      "name": "subSuite",
+      "value": "CalculatorTest"
+    },
+    {
+      "name": "host",
+      "value": "mbpvictrburtsev"
+    },
+    {
+      "name": "thread",
+      "value": "3812@mbpvictrburtsev.main(1)"
+    }
+  ],
+  "links": [],
+  "name": "testSub",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "start": 1509305209642,
+  "stop": 1509305209642,
+  "parameters": []
+}

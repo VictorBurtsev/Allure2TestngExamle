@@ -1,0 +1,9 @@
+{
+  "uuid": "2cd41e93-db25-4a7b-adbe-ada582524c4f",
+  "name": "Surefire suite",
+  "start": 1509301627095,
+  "stop": 1509301627497,
+  "children": [
+    "00c901c8-e421-4549-bd60-c5a69cac3bf3"
+  ]
+}

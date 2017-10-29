@@ -1,0 +1,20 @@
+{
+  "uuid": "b496610a-8d85-4f50-b579-956ea7d5466f",
+  "name": "CalculatorTest.setUp",
+  "description": "",
+  "start": 1509305074211,
+  "stop": 1509305074219,
+  "children": [
+    "37cdae73-bf61-414a-a3b7-cd5e365d2ae4"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "start": 1509305074211,
+      "stop": 1509305074218
+    }
+  ]
+}
